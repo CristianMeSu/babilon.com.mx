@@ -1,0 +1,52 @@
+#header{
+	background:url(../Img/Fondo.jpg);	
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	height: 558px;
+}
+#menuheader{
+	padding-top: 53px;
+
+
+}
+#menuheader nav ul{
+	padding-right: 60px;
+	float: right;
+}
+#menuheader nav ul li{
+	list-style:none;
+ 	display: inline-block;
+ 	padding-right: 20px;
+}
+#menuheader nav ul li a{
+	text-decoration: none; color: #ffffff; font-size: 15px;
+	font-family: 'Poppins', sans-serif;
+}
+#menuheader nav ul li a:hover{
+	color:#00aeff;
+}
+#menuheader nav ul li:last-child a{
+ border-right: none; border-right: 0px;
+}
+#logo{
+	padding-top: 53px;	
+	padding-left: 60px;
+}
+button{
+	background-color:#dda100;
+	height: 35px;
+	width: 135px;
+	border: none;
+	color: #ffffff;
+	font-size: 13px;
+	font-family: 'Poppins', sans-serif;
+	border-radius: 5px;
+}
+
+/*body{
+	background:url(../Img/Fondo.jpg);	
+}*/
+
+/*img{
+	background-color: transparent;
+}*/
