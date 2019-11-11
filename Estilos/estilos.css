@@ -1,3 +1,4 @@
+
 #header{
 	background:url(../Img/Fondo.jpg);	
 	background-repeat: no-repeat;
@@ -43,10 +44,9 @@ button{
 	border-radius: 5px;
 }
 
-/*body{
-	background:url(../Img/Fondo.jpg);	
-}*/
-
-/*img{
-	background-color: transparent;
-}*/
+/*...................esmeralda.........................*/
+#parte1{
+	padding-left: 200px;
+	padding-bottom: 0px;
+	background-color: #0067be;
+}
