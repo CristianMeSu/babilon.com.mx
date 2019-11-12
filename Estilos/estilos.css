@@ -1,4 +1,3 @@
-
 #header{
 	background:url(../Img/Fondo.jpg);	
 	background-repeat: no-repeat;
@@ -36,6 +35,35 @@
 	padding-top: 53px;	
 	padding-left: 60px;
 }
+#cuadrodatos{
+	padding-left: 145px;
+
+}
+#cuadronegro{
+	
+	background-color: #00191d;
+	color: #ffffff;
+	width: 300px	;
+}
+#destino .destinations{
+	width: 307px;
+}
+#checkin .destinations{
+	width: 150px;
+}
+#checkout .destinations{
+	
+	width: 150px;
+}
+.destinations{
+border-radius: 5px;
+font-family: 'Poppins', sans-serif;
+font-size: 13px;
+color: #515151;
+}
+.row{
+	margin: 0px 0px;
+}
 button{
 	background-color:#dda100;
 	height: 35px;
@@ -46,7 +74,6 @@ button{
 	font-family: 'Poppins', sans-serif;
 	border-radius: 5px;
 }
-
 /*...................esmeralda.........................*/
 #parte1{
 	padding-left: 200px;
