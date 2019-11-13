@@ -1,7 +1,7 @@
 
 /*.....ID de cristian...*/
 #header{
-	background:url(../Img/Fondo.jpg);	
+	background:url(../img/Fondo.jpg);	
 	background-repeat: no-repeat;
 	background-attachment: scroll;
 	background-size: 100% 100%;
@@ -38,28 +38,101 @@
 	padding-left: 60px;
 }
 #cuadrodatos{
-	padding-left: 145px;
+	padding-left: 130px;
 	padding-right: 200px;
-
+	margin-top: 45px;
+}
+#titulocuadro{
+	padding-top: 20px;
+	padding-bottom: 10px;
 }
 #cuadronegro{
-	
-	background-color: #00191d;
+	width: 350px;
+	background-color: rgba(0,0,0,0.6);
+	padding-right: 0px;
 	color: #ffffff;
-	width: 300px	;
+	
+}
+#cuadronegro .row{
+	padding-top: 10px;
+	padding-left: 20px;
+} 
+#destino{
+	
+	padding-left: 20px;
+}
+#titulocuadro{
+	padding-left: 20px;
 }
 #destino .destinations{
-	width: 207px;
+	width: 307px;
+	height: 45px;
 }
 #checkin .destinations{
-	width: 100px;
+	height: 45px;
+	width: 150px;
+	background:url(../img/calendar.png);	
+	background-repeat: no-repeat; 
+	background-color: #ffffff;
+	background-position: right;
 }
 #checkout .destinations{
-	
-	width: 100px;
+	height: 45px;
+	width: 150px;
+	background:url(../img/calendar.png);	
+	background-repeat: no-repeat; 
+	background-color: #ffffff;
+	background-position: right;
+}
+#rooms .destinations{
+	height: 45px;
+	width: 70px;
+	background:url(../img/flechaabajo.png);	
+	background-repeat: no-repeat; 
+	background-color: #ffffff;
+	background-position: right;
+}
+#adult .destinations{
+	height: 45px;
+	width: 70px;
+	background:url(../img/flechaabajo.png);	
+	background-repeat: no-repeat; 
+	background-color: #ffffff;
+	background-position: right;
+}
+#child .destinations{
+	height: 45px;
+	width: 70px;
+	background:url(../img/flechaabajo.png);	
+	background-repeat: no-repeat; 
+	background-color: #ffffff;
+	background-position: right;
+}
+#check2 p{
+	color: #ffffff;
+	font-size: 13px;
+	font-family: 'Poppins', sans-serif;
 }
 #checkout{
 	padding-left: 7px;
+}
+#rooms{
+	margin-right: 80px;
+}
+#adult{
+	padding-left: 7px;
+}
+#child{
+	padding-left: 10px;
+}
+#textoheader{
+	padding-top: 50px;
+	padding-left: 30px;
+}
+#search{
+	padding-top: 20px;
+	padding-left: 20px;
+	padding-bottom: 20px;
 }
 /*... ID de esme...*/
 #contente1{
@@ -85,9 +158,10 @@
 	padding-right: 195px;
 }
 #menu nav ul li{
+
 	margin-top: 40px;
 	list-style:none; display: inline-block; 
-}
+} 
 #menu nav ul li a{
 	margin-top: 
 	text-decoration: none; color: #0067be; font-size: 17px;  padding: 0px 20px;
@@ -107,10 +181,12 @@
 
 /*....clases de cristian....*/
 .destinations{
+
 border-radius: 5px;
 font-family: 'Poppins', sans-serif;
 font-size: 13px;
 color: #515151;
+padding-left: 15px;
 }
 .row{
 	margin: 0px 0px;
@@ -134,7 +210,7 @@ color: #515151;
 
 
 /*.....etiquetas cristian.....*/
-button{
+#menuheader button{
 	background-color:#dda100;
 	height: 35px;
 	width: 135px;
@@ -144,6 +220,18 @@ button{
 	font-family: 'Poppins', sans-serif;
 	border-radius: 5px;
 }
+#search button{
+
+	background-color:#0067be;
+	height: 45px;
+	width: 307px;
+	border: none;
+	color: #ffffff;
+	font-size: 13px;
+	font-family: 'Poppins', sans-serif;
+	border-radius: 5px;
+}
+
 /*... etiquetas de esme...*/
 h4{
 color: #3c3c3c;	 font-size: 20px;
