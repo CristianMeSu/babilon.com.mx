@@ -138,7 +138,7 @@
 #contente1{
 	padding-left: 200px;
 	padding-bottom: 0px;
-	background-color: #0067be;
+	background-color: #999999;
 }#content1{
 	background-color: #ebebeb;
 	padding-bottom: 35px;
@@ -146,27 +146,73 @@
 	padding-right: 100px;
 }
 #menu{
-	margin-top: 10px;
-	padding-right: 0px;
-    padding-left: 10px;
+	margin-top: 5px;
+	padding-right: 15px;
+    padding-left: 0px;
+	padding-bottom: 20px;
+	text-align: center;
 }
-
+#submenu{
+    margin-top: 30px;
+	padding-right: 0px;
+    padding-left: 240px;
+    text-align: center; 
+}
+#submenu nav ul li{
+	margin-top: 0px;
+	list-style:none; display: inline-block; 
+}
+#submenu nav ul li a{
+	margin-top: 
+	text-decoration; none; color: #5d9dd3; font-size: 15px;  padding: 0px 20px;
+	font-family: 'Poppins', sans-serif;
+ }
 #content2{
 	background-color: #f7f7f7;
 	padding-bottom: 35px;
-	padding-left:  195px;
-	padding-right: 195px;
+	padding-left:  280px;
+	padding-right: 280px;
+}
+#menu nav ul li a:hover{
+	color:#00aeff; font-weight: bold;
 }
 #menu nav ul li{
-
 	margin-top: 40px;
 	list-style:none; display: inline-block; 
-} 
+}
 #menu nav ul li a{
 	margin-top: 
-	text-decoration: none; color: #0067be; font-size: 17px;  padding: 0px 20px;
-	font-family: 'PT Sans', sans-serif;
-}
+	text-decoration: none; color: #0067be; font-size: 17px;  padding: 0px 5px;
+	font-family: 'Poppins', sans-serif;
+ }
+ #parte1{
+ 	background-color: #ebebeb;
+	padding-bottom:5px;
+	padding-left:  0px;
+	padding-right: 0px;
+	
+ }
+ #parte2{
+ 	background-color: #ebebeb;
+	padding-bottom:5px;
+	padding-left:  0px;
+	padding-right: 0px;
+	
+ }
+ #parte3{
+ 	background-color: #ebebeb;
+	padding-bottom:5px;
+	padding-left:  0px;
+	padding-right: 0px;
+	
+ }
+ #parte4{
+ 	background-color: #ebebeb;
+	padding-bottom:5px;
+	padding-left:  0px;
+	padding-right: 0px;
+	
+ }
 /*... ..ID de julio.....*/
 /*..... ID de lily.....*/
 #Cuerpo{
@@ -243,24 +289,25 @@ padding-left: 15px;
 
 /*... etiquetas de esme...*/
 h4{
-color: #3c3c3c;	 font-size: 20px;
-font-family: 'PT Sans', sans-serif;
+color: #3c3c3c;	 font-size: 15px;
+font-family: 'Poppins', sans-serif;
 }
 h5{
-color: #7b7b7b;	 font-size: 20px;
-font-family: 'PT Sans', sans-serif;
+color: #7b7b7b;	 font-size: 13px;
+font-family: 'Poppins', sans-serif;
+  text-align: center;
 }
 p{
 	 color: #686868;
 	 padding-right: 0px;
-	  font-size: 12.5px;
-	font-family: 'PT Sans',
+	  font-size: 13px;
+	font-family: 'Poppins',
 	 sans-serif;
 }
 h3{
-	padding: 22px 0px 22px 0px;	
-	color: #8f8f8f; font-size: 30px; 
-	font-family: 'PT Sans', sans-serif;
-	}
+	padding: 50px 0px 20px 0px;	 text-align: center;
+	color: #282828; font-size: 22px; 
+	font-family: 'Poppins', sans-serif;
+}
 /*... etiquetas de julio...*/
 /*... etiquetas de lily...*/
