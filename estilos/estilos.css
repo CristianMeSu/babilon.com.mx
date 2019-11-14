@@ -205,9 +205,18 @@ padding-left: 15px;
 /*... clases de esme....*/
 /*...clases de julio....*/
 /*... clases de lily....*/
+#BLOG{
+	background:  #e4e4e4
+}
 
+#cuepo{
+	text-align: center;
 
+}
 
+#coment{
+	text-align: center;
+}
 
 /*.....etiquetas cristian.....*/
 #menuheader button{
