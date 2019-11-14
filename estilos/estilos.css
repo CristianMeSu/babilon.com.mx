@@ -1,4 +1,9 @@
-
+/*.....ID de cristian...*/
+/*.....ID de cristian...*/
+/*.....ID de cristian...*/
+/*.....ID de cristian...*/
+/*.....ID de cristian...*/
+/*.....ID de cristian...*/
 /*.....ID de cristian...*/
 #header{
 	background:url(../img/Fondo.jpg);	
@@ -7,39 +12,41 @@
 	background-size: 100% 100%;
 	height: 558px;
 	width: 100%;
+
 	
 }
 #menuheader{
 	padding-top: 53px;
-
+	
 
 }
 #menuheader nav ul{
+
 	padding-right: 60px;
 	float: right;
 }
 #menuheader nav ul li{
+
 	list-style:none;
  	display: inline-block;
  	padding-right: 20px;
 }
 #menuheader nav ul li a{
+
 	text-decoration: none; color: #ffffff; font-size: 15px;
 	font-family: 'Poppins', sans-serif;
 }
 #menuheader nav ul li a:hover{
 	color:#00aeff;
 }
-#menuheader nav ul li:last-child a{
- border-right: none; border-right: 0px;
+
 }
 #logo{
 	padding-top: 53px;	
-	padding-left: 60px;
+	padding-left: 50px;
 }
 #cuadrodatos{
-	padding-left: 130px;
-	padding-right: 200px;
+	justify-content: center;
 	margin-top: 45px;
 }
 #titulocuadro{
@@ -134,6 +141,53 @@
 	padding-left: 20px;
 	padding-bottom: 20px;
 }
+.destinations{
+
+border-radius: 5px;
+font-family: 'Poppins', sans-serif;
+font-size: 13px;
+color: #515151;
+padding-left: 15px;
+}
+.row{
+	margin: 0px 0px;
+}
+.titulotextoheader{
+	color: #ffffff;
+	font-size: 30px;
+	font-family: 'Poppins', sans-serif;
+}
+.parrafotextoheader{
+	color: #ffffff;
+	font-size: 18px;
+	font-family: 'Poppins', sans-serif;
+	margin-bottom: 0px;
+}
+#menuheader button{
+	background-color:#dda100;
+	height: 35px;
+	width: 135px;
+	border: none;
+	color: #ffffff;
+	font-size: 13px;
+	font-family: 'Poppins', sans-serif;
+	border-radius: 5px;
+}
+#search button{
+
+	background-color:#0067be;
+	height: 45px;
+	width: 307px;
+	border: none;
+	color: #ffffff;
+	font-size: 13px;
+	font-family: 'Poppins', sans-serif;
+	border-radius: 5px;
+}
+/*... ID de esme...*/
+/*... ID de esme...*/
+/*... ID de esme...*/
+/*... ID de esme...*/
 /*... ID de esme...*/
 #contente1{
 	padding-left: 200px;
@@ -225,29 +279,6 @@
 
 
 
-/*....clases de cristian....*/
-.destinations{
-
-border-radius: 5px;
-font-family: 'Poppins', sans-serif;
-font-size: 13px;
-color: #515151;
-padding-left: 15px;
-}
-.row{
-	margin: 0px 0px;
-}
-.titulotextoheader{
-	color: #ffffff;
-	font-size: 30px;
-	font-family: 'Poppins', sans-serif;
-}
-.parrafotextoheader{
-	color: #ffffff;
-	font-size: 18px;
-	font-family: 'Poppins', sans-serif;
-	margin-bottom: 0px;
-}
 /*... clases de esme....*/
 /*...clases de julio....*/
 /*... clases de lily....*/
@@ -262,29 +293,6 @@ padding-left: 15px;
 
 #coment{
 	text-align: center;
-}
-
-/*.....etiquetas cristian.....*/
-#menuheader button{
-	background-color:#dda100;
-	height: 35px;
-	width: 135px;
-	border: none;
-	color: #ffffff;
-	font-size: 13px;
-	font-family: 'Poppins', sans-serif;
-	border-radius: 5px;
-}
-#search button{
-
-	background-color:#0067be;
-	height: 45px;
-	width: 307px;
-	border: none;
-	color: #ffffff;
-	font-size: 13px;
-	font-family: 'Poppins', sans-serif;
-	border-radius: 5px;
 }
 
 /*... etiquetas de esme...*/
