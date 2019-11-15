@@ -355,33 +355,24 @@ text-align: right;
 	
 }
 
-#cuepo h1{
-	color: #282828; font-size: 22px;
-	font-family: 'Poppins', sans-serif;
-	padding-bottom: 40px;
-}
-#cuepo p{
+h1{text-decoration; none; color: #282828; font-size: 22px;
+	font-family: 'Poppins', sans-serif;}
+p{
 	padding-top: 100px;
 	text-align: center;
-	color: #515151; font-size: 15px;  padding: 0px 20px;
+	text-decoration; none; color: #515151; font-size: 15px;  padding: 0px 20px;
 	font-family: 'Poppins', sans-serif;
 
 }
-#textolily{
-	padding-top: 30px;
-}
-#cuepo h2{
-	color: #515151; font-size: 18px;  padding: 0px 20px;
+
+h2{text-decoration; none; color: #515151; font-size: 18px;  padding: 0px 20px;
 	font-family: 'Poppins', sans-serif;
-	padding-top: 20px;
+padding-top: 20px;}
+
+
+img{src:"img/blog1.png"; width:120px; height:120px;
+padding-top: 51px; padding-bottom: 40px;
 }
-
-
-#cuepo img{ 
-	width:120px; height:120px;
-
-}
-
 
 
 #BLOG{
@@ -403,11 +394,7 @@ text-align: right;
 }
 
 #Botones button{
-	width: 10px;
-	height: 15px;
-	border-radius: 51% 49% 49% 51% / 45% 49% 51% 56% ;
-	border: none;
-	background-color: #b0b0b0;
+	border-radius: <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">51% 48% 51% 50% / 47% 49% 51% 54%</font></font>
 
 }
 
