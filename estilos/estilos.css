@@ -272,6 +272,81 @@ padding-left: 15px;
 	
  }
 /*... ..ID de julio.....*/
+#blog{
+	padding: 50px 0px 20px 0px;
+	font-size: 158px;
+	font-family: 'Poppins'
+}
+#texto00{
+	font-family: 'Poppins';
+}
+#julio .row{
+	background-color: #ededed;
+	margin-bottom: 50px;
+	width: 1190px;
+}
+#color{
+	justify-content: center;
+	background-color: #f7f7f7;
+}
+#julio li {
+list-style: none;	
+text-align: right;
+}
+#piedepagina{
+	background-color: #31333e;
+	padding-bottom: 50px;
+	text-align: center;
+}
+#parte1pie{
+	margin-top: 30px;
+}
+#menupie nav ul{
+	margin-bottom: 10px;
+}
+#menupie nav ul li{
+	list-style:none;
+ 	display: inline-block;
+}
+#menupie nav ul li a{
+	text-decoration: none; color: #ffffff; font-size: 15px;  padding: 0px 10px;
+	font-family: 'Poppins', sans-serif;
+}
+#menupie nav ul li a:hover{
+	color:#00aeff;
+}
+#menupie nav ul li:last-child a{
+ border-right: none; border-right: 0px;	
+}
+#textopie{
+	padding-left: 10px;
+}
+#textopie h6{
+	color: #ffffff; font-size: 15px;
+	font-family: 'Poppins', sans-serif;
+}
+#textopie p{
+	color: #ffffff; font-size: 12px;
+	font-family: 'Poppins', sans-serif;
+}
+#parte2pie {
+	
+	padding: 20px 0px 0px 270px;
+	text-decoration: none;
+
+}
+#sociales nav ul li{
+	
+	font-size: 37px;
+	list-style:none;
+ 	display: inline-block;
+ 
+}
+
+#ARTICLES{
+	list-style: none;	
+    text-align: center;
+}
 /*..... ID de lily.....*/
 #Cuepo{
 	padding-left: 200px;
@@ -361,4 +436,5 @@ h3{
 	font-family: 'Poppins', sans-serif;
 }
 /*... etiquetas de julio...*/
+
 /*... etiquetas de lily...*/
