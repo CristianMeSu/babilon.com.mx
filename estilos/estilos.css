@@ -554,30 +554,30 @@ h3{
 	padding-top: 25px;
 	padding-bottom: 5px;
 	font-size: 18px; 
-	font-family: 'PT Sans', sans-serif;
+	font-family: 'Poppins', sans-serif;
 }
 #text00 p{
 	margin: 0px;
 	font-size: 15px; 
-	font-family: 'PT Sans', sans-serif;
+	font-family: 'Poppins', sans-serif;
 }
 #text01 p{
 	margin: 0px;
 	font-size: 15px; 
-	font-family: 'PT Sans', sans-serif;
+	font-family: 'Poppins', sans-serif;
 }
 #text00 .read{
 	text-align: right;
 	color: #1e78c4;
 	font-size: 15px; 
-	font-family: 'PT Sans', sans-serif;
+	font-family: 'Poppins', sans-serif;
 	padding-top: 10px;
 }
 #text01 .read{
 	text-align: right;
 	color: #1e78c4;
 	font-size: 15px; 
-	font-family: 'PT Sans', sans-serif;
+	font-family: 'Poppins', sans-serif;
 	padding-top: 10px;
 }
 .read nav ul li{
@@ -596,11 +596,15 @@ h3{
 }
 
 
-#blog{
+#blog4{
 	padding-top: 30px;	
 	text-align: center;
+	
+}
+#blog4 p{
+
 	font-size: 22px; 
-	font-family: 'PT Sans', sans-serif;
+	font-family: 'Poppins', sans-serif;
 }
 #footer{
 	background-color: #1b1b1b;
