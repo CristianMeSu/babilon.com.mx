@@ -217,7 +217,7 @@ padding-left: 15px;
 	list-style:none; display: inline-block; 
 }
 #menu nav ul li a{
-	margin-top: 
+	
 	text-decoration: none; color: #0067be; font-size: 17px;  padding: 0px 5px;
 	font-family: 'Poppins', sans-serif;
  }
@@ -231,14 +231,25 @@ padding-left: 15px;
 	margin-top: 0px;
 	list-style:none; display: inline-block; 
 }
+#submenu nav ul{
+	padding-left: 0px;
+}
 #submenu nav ul li a{
-	margin-top: 
-	text-decoration; none; color: #5d9dd3; font-size: 15px;  padding: 0px 20px;
+	
+	text-decoration: none; color: #5d9dd3; font-size: 15px;  padding: 0px 20px;
 	font-family: 'Poppins', sans-serif;
  }
+ #submenu nav ul li a:hover{
+	color:#00aeff; font-weight: bold;
+}
+
 #content2{
 	background-color: #f7f7f7;
 	padding-bottom: 35px;	
+justify-content: left;
+}
+#rowsubmenu {
+	justify-content:  center;
 }
  #parte1{
  	background-color: #ebebeb;
