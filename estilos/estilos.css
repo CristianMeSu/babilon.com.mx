@@ -410,8 +410,18 @@ text-align: right;
 	background-color: #b0b0b0;
 
 }
-
-
+#Botones nav ul li a button:hover{
+	background-color: #00aeff;
+}
+#Botones nav ul li{
+	list-style:none;
+ 	display: inline-block;
+	
+}
+#Botones nav ul{
+	padding-left: 0px;
+	
+}
 #BLOG{
 	background:  #e4e4e4
 }
