@@ -413,81 +413,7 @@ justify-content: left;
 /*... ..ID de julio.....*/
 /*... ..ID de julio.....*/
 /*... ..ID de julio.....*/
-#blog{
-	padding: 50px 0px 20px 0px;
-	font-size: 158px;
-	font-family: 'Poppins'
-}
-#texto00{
-	font-family: 'Poppins';
-}
-#julio .row{
-	background-color: #ededed;
-	margin-bottom: 50px;
-	width: 1190px;
-}
-#color{
-	justify-content: center;
-	background-color: #f7f7f7;
-}
-#julio li {
-list-style: none;	
-text-align: right;
-}
-#piedepagina{
-	background-color: #31333e;
-	padding-bottom: 50px;
-	text-align: center;
-}
-#parte1pie{
-	margin-top: 30px;
-}
-#menupie nav ul{
-	margin-bottom: 10px;
-}
-#menupie nav ul li{
-	list-style:none;
- 	display: inline-block;
-}
-#menupie nav ul li a{
-	text-decoration: none; color: #ffffff; font-size: 15px;  padding: 0px 10px;
-	font-family: 'Poppins', sans-serif;
-}
-#menupie nav ul li a:hover{
-	color:#00aeff;
-}
-#menupie nav ul li:last-child a{
- border-right: none; border-right: 0px;	
-}
-#textopie{
-	padding-left: 10px;
-}
-#textopie h6{
-	color: #ffffff; font-size: 15px;
-	font-family: 'Poppins', sans-serif;
-}
-#textopie p{
-	color: #ffffff; font-size: 12px;
-	font-family: 'Poppins', sans-serif;
-}
-#parte2pie {
-	
-	padding: 20px 0px 0px 270px;
-	text-decoration: none;
 
-}
-#sociales nav ul li{
-	
-	font-size: 37px;
-	list-style:none;
- 	display: inline-block;
- 
-}
-
-#ARTICLES{
-	list-style: none;	
-    text-align: center;
-}
 /*..... ID de lily.....*/
 #Cuepo{
 	padding-left: 200px;
@@ -612,6 +538,98 @@ h3{
 	font-family: 'Poppins', sans-serif;
 }
 
-/*... etiquetas de julio...*/
+/*... etiquetas de julio...*/#julio{
+	padding: 0px;
+}
+#fondogen{
+	background-color: #f7f7f7;
+	padding-left: 130px;
+	padding-right: 130px;
+}
+#julio .row{
+	background-color: #ededed;
+	margin-top: 20px;
+}
+#julio h4{
+	padding-top: 25px;
+	padding-bottom: 5px;
+	font-size: 18px; 
+	font-family: 'PT Sans', sans-serif;
+}
+#text00 p{
+	margin: 0px;
+	font-size: 15px; 
+	font-family: 'PT Sans', sans-serif;
+}
+#text01 p{
+	margin: 0px;
+	font-size: 15px; 
+	font-family: 'PT Sans', sans-serif;
+}
+#text00 .read{
+	text-align: right;
+	color: #1e78c4;
+	font-size: 15px; 
+	font-family: 'PT Sans', sans-serif;
+	padding-top: 10px;
+}
+#text01 .read{
+	text-align: right;
+	color: #1e78c4;
+	font-size: 15px; 
+	font-family: 'PT Sans', sans-serif;
+	padding-top: 10px;
+}
+.read nav ul li{
+	list-style: none;
+	display: inline-block;
+	
+}
+.read nav ul li a{
+	list-style: none;
+	display: inline-block;
+	text-decoration: none;
+}
+#all{
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
 
+
+#blog{
+	padding-top: 30px;	
+	text-align: center;
+	font-size: 22px; 
+	font-family: 'PT Sans', sans-serif;
+}
+#footer{
+	background-color: #1b1b1b;
+}
+#menufoot nav ul{
+	text-align: center;
+	padding-top: 30px;
+}
+#menufoot nav ul li{
+
+	list-style:none;
+ 	display: inline-block;
+ 	padding-right: 20px;
+}
+#menufoot nav ul li a{
+
+	text-decoration: none; color: #ffffff; font-size: 15px;
+	font-family: 'Poppins', sans-serif;
+}
+#menufoot nav ul li a:hover{
+	color:#00aeff;
+}
+#textfoot{
+	padding-bottom: 30px;
+	text-align: center;
+}
+#textfoot p{
+	 color: #ffffff; font-size: 12px;
+	font-family: 'Poppins', sans-serif;
+	
+}
 /*... etiquetas de lily...*/
