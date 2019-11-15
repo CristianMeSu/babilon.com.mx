@@ -273,19 +273,57 @@ padding-left: 15px;
  }
 /*... ..ID de julio.....*/
 /*..... ID de lily.....*/
-#Cuerpo{
+#Cuepo{
 	padding-left: 200px;
 	padding-bottom: 0px;
-	background-color: #e4e4e4;	
+	background-color: #e4e4e4;
+	
+}
+
+h1{text-decoration; none; color: #282828; font-size: 22px;
+	font-family: 'Poppins', sans-serif;}
+p{
+	padding-top: 100px;
+	text-align: center;
+	text-decoration; none; color: #515151; font-size: 15px;  padding: 0px 20px;
+	font-family: 'Poppins', sans-serif;
+
+}
+
+h2{text-decoration; none; color: #515151; font-size: 18px;  padding: 0px 20px;
+	font-family: 'Poppins', sans-serif;
+padding-top: 20px;}
+
+
+img{src:"img/blog1.png"; width:120px; height:120px;
+padding-top: 51px; padding-bottom: 40px;
 }
 
 
+#BLOG{
+	padding: 50px 0;
+	background:  #e4e4e4
+}
+
+#cuepo{
+	text-align: center;
+
+}
+.dots-size img{
+	width: 10px;
+}
 
 
+#coment{
+	text-align: center;
+}
 
-/*... clases de esme....*/
-/*...clases de julio....*/
-/*... clases de lily....*/
+#Botones button{
+	border-radius: <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">51% 48% 51% 50% / 47% 49% 51% 54%</font></font>
+
+}
+
+
 #BLOG{
 	background:  #e4e4e4
 }
@@ -298,6 +336,7 @@ padding-left: 15px;
 #coment{
 	text-align: center;
 }
+
 
 /*... etiquetas de esme...*/
 h4{
