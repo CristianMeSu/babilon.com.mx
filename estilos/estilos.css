@@ -236,11 +236,11 @@ padding-left: 15px;
 }
 #submenu nav ul li a{
 	
-	text-decoration: none; color: #5d9dd3; font-size: 15px;  padding: 0px 20px;
+	text-decoration: none; color: #2373c2; font-size: 15px;  padding: 0px 20px;
 	font-family: 'Poppins', sans-serif;
  }
  #submenu nav ul li a:hover{
-	color:#00aeff; font-weight: bold;
+	color:#2373c2; font-weight: bold;
 }
 
 #content2{
@@ -292,7 +292,7 @@ justify-content: left;
 #estrella1 nav ul{
  	padding-left: 0px;
  	padding-right: 25px;
-	 padding-left: 25px;
+	 padding-left: 18px;
 }
 #estrella1{
     margin-top: 10px; 
@@ -310,7 +310,7 @@ justify-content: left;
 #estrella2 nav ul{
  	padding-left: 0px;
  	padding-right: 25px;
-	 padding-left: 25px;
+	 padding-left: 18px;
 }
 #estrella2{
     margin-top: 10px; 
@@ -328,7 +328,7 @@ justify-content: left;
 #estrella3 nav ul{
  	padding-left: 0px;
  	padding-right: 25px;
-	 padding-left: 25px;
+	 padding-left: 18px;
 }
 #estrella3{
     margin-top: 10px; 
@@ -346,7 +346,7 @@ justify-content: left;
 #estrella4 nav ul{
  	padding-left: 0px;
  	padding-right: 25px;
-	 padding-left: 25px;
+	 padding-left: 18px;
 }
 #estrella4{
     margin-top: 10px; 
@@ -391,6 +391,26 @@ justify-content: left;
 	font-size: 15px;
 	font-family: 'Poppins', sans-serif;
 }
+#textosubtitulo p{
+	padding: 0px;
+	margin-bottom: 5px;
+}
+#textosubtitulo {
+	text-align: center;
+}
+#centro p{
+	padding: 0px;
+	margin-bottom: 5px;
+}
+#centro {
+	text-align: left;
+}
+/*... ..ID de julio.....*/
+/*... ..ID de julio.....*/
+/*... ..ID de julio.....*/
+/*... ..ID de julio.....*/
+/*... ..ID de julio.....*/
+/*... ..ID de julio.....*/
 /*... ..ID de julio.....*/
 #blog{
 	padding: 50px 0px 20px 0px;
@@ -561,9 +581,11 @@ text-align: right;
 	width: 255px;
 	color: #3c3c3c;	 font-size: 15px;
 	font-family: 'Poppins', sans-serif;
-	padding-right: 26px;
-	 padding-left: 26px;
-	 padding-top: 0x;
+	padding-right: 20px;
+	 padding-left: 20px;
+	 padding-top: 0px;
+	 text-align: left;
+	 padding-bottom: 20px;
 }
 h5{
 	color: #7b7b7b;	font-size: 15px;
@@ -576,7 +598,7 @@ h5{
 	  font-size: 13px;
 	font-family: 'Poppins',
 	 sans-serif;
-	 text-align: center;
+	 text-align: left;
 }
 h3{
 	padding: 50px 0px 20px 0px;	 text-align: center;
