@@ -1,0 +1,392 @@
+	
+/*.....ID de cristian...*/
+/*.....ID de cristian...*/
+/*.....ID de cristian...*/
+/*.....ID de cristian...*/
+/*.....ID de cristian...*/
+/*.....ID de cristian...*/
+/*.....ID de cristian...*/
+#header{
+	background:url(../img/Fondo.jpg);	
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-size: 100% 100%;
+	height: 558px;
+	width: 100%;
+}
+
+#menuheader{
+	padding-top: 53px;
+	
+
+}
+#menuheader nav ul{
+
+	
+	float: right;
+}
+#menuheader nav ul li{
+
+	list-style:none;
+ 	display: inline-block;
+ 	padding-right: 20px;
+}
+#menuheader nav ul li a{
+
+	text-decoration: none; color: #ffffff; font-size: 15px;
+	font-family: 'Poppins', sans-serif;
+}
+#menuheader nav ul li a:hover{
+	color:#00aeff;
+}
+
+}
+#logo{
+	
+	padding-left: 50px;
+}
+#logo img{
+	padding-top: 53px;	
+	padding-left: 50px;
+}
+#cuadrodatos{
+	justify-content: center;
+	margin-top: 45px;
+}
+#titulocuadro{
+	padding-top: 20px;
+	padding-bottom: 10px;
+}
+#cuadronegro{
+	width: 350px;
+	background-color: rgba(0,0,0,0.6);
+	padding-right: 0px;
+	color: #ffffff;
+	
+}
+#cuadronegro .row{
+	padding-top: 10px;
+	padding-left: 20px;
+} 
+#destino{
+	
+	padding-left: 20px;
+}
+#titulocuadro{
+	padding-left: 20px;
+}
+#destino .destinations{
+	width: 307px;
+	height: 45px;
+}
+#checkin .destinations{
+	height: 45px;
+	width: 150px;
+	background:url(../img/calendar.png);	
+	background-repeat: no-repeat; 
+	background-color: #ffffff;
+	background-position: right;
+}
+#checkout .destinations{
+	height: 45px;
+	width: 150px;
+	background:url(../img/calendar.png);	
+	background-repeat: no-repeat; 
+	background-color: #ffffff;
+	background-position: right;
+}
+#rooms .destinations{
+	height: 45px;
+	width: 70px;
+	background:url(../img/flechaabajo.png);	
+	background-repeat: no-repeat; 
+	background-color: #ffffff;
+	background-position: right;
+}
+#adult .destinations{
+	height: 45px;
+	width: 70px;
+	background:url(../img/flechaabajo.png);	
+	background-repeat: no-repeat; 
+	background-color: #ffffff;
+	background-position: right;
+}
+#child .destinations{
+	height: 45px;
+	width: 70px;
+	background:url(../img/flechaabajo.png);	
+	background-repeat: no-repeat; 
+	background-color: #ffffff;
+	background-position: right;
+}
+#check2 p{
+	color: #ffffff;
+	font-size: 13px;
+	font-family: 'Poppins', sans-serif;
+}
+#checkout{
+	padding-left: 7px;
+}
+#rooms{
+	margin-right: 80px;
+}
+#adult{
+	padding-left: 7px;
+}
+#child{
+	padding-left: 10px;
+}
+#textoheader{
+	padding-top: 50px;
+	padding-left: 30px;
+}
+#search{
+	padding-top: 20px;
+	padding-left: 20px;
+	padding-bottom: 20px;
+}
+.destinations{
+
+border-radius: 5px;
+font-family: 'Poppins', sans-serif;
+font-size: 13px;
+color: #515151;
+padding-left: 15px;
+}
+.row{
+	margin: 0px 0px;
+}
+.titulotextoheader{
+	color: #ffffff;
+	font-size: 30px;
+	font-family: 'Poppins', sans-serif;
+}
+.parrafotextoheader{
+	color: #ffffff;
+	font-size: 18px;
+	font-family: 'Poppins', sans-serif;
+	margin-bottom: 0px;
+}
+#menuheader button{
+	background-color:#dda100;
+	height: 35px;
+	width: 135px;
+	border: none;
+	color: #ffffff;
+	font-size: 13px;
+	font-family: 'Poppins', sans-serif;
+	border-radius: 5px;
+}
+#search button{
+
+	background-color:#0067be;
+	height: 45px;
+	width: 307px;
+	border: none;
+	color: #ffffff;
+	font-size: 13px;
+	font-family: 'Poppins', sans-serif;
+	border-radius: 5px;
+}
+/*... ID de esme...*/
+/*... ID de esme...*/
+/*... ID de esme...*/
+/*... ID de esme...*/
+/*... ID de esme...*/
+#contente1{
+	padding-left: 200px;
+	padding-bottom: 0px;
+	background-color: #999999;
+}#content1{
+	background-color: #ebebeb;
+	padding-bottom: 35px;
+	padding-left:  100px;
+	padding-right: 100px;
+}
+#menu{
+	margin-top: 5px;
+	padding-right: 15px;
+    padding-left: 0px;
+	padding-bottom: 20px;
+	text-align: center;
+}
+#submenu{
+    margin-top: 30px;
+	padding-right: 0px;
+    padding-left: 240px;
+    text-align: center; 
+}
+#submenu nav ul li{
+	margin-top: 0px;
+	list-style:none; display: inline-block; 
+}
+#submenu nav ul li a{
+	margin-top: 
+	text-decoration; none; color: #5d9dd3; font-size: 15px;  padding: 0px 20px;
+	font-family: 'Poppins', sans-serif;
+ }
+#content2{
+	background-color: #f7f7f7;
+	padding-bottom: 35px;
+	padding-left:  280px;
+	padding-right: 280px;
+}
+#menu nav ul li a:hover{
+	color:#00aeff; font-weight: bold;
+}
+#menu nav ul li{
+	margin-top: 40px;
+	list-style:none; display: inline-block; 
+}
+#menu nav ul li a{
+	margin-top: 
+	text-decoration: none; color: #0067be; font-size: 17px;  padding: 0px 5px;
+	font-family: 'Poppins', sans-serif;
+ }
+ #parte1{
+ 	background-color: #ebebeb;
+	padding-bottom:5px;
+	padding-left:  0px;
+	padding-right: 0px;
+	
+ }
+ #parte2{
+ 	background-color: #ebebeb;
+	padding-bottom:5px;
+	padding-left:  0px;
+	padding-right: 0px;
+	
+ }
+ #parte3{
+ 	background-color: #ebebeb;
+	padding-bottom:5px;
+	padding-left:  0px;
+	padding-right: 0px;
+	
+ }
+ #parte4{
+ 	background-color: #ebebeb;
+	padding-bottom:5px;
+	padding-left:  0px;
+	padding-right: 0px;
+	
+ }
+/*... ..ID de julio.....*/
+/*..... ID de lily.....*/
+#Cuerpo{
+	padding-left: 200px;
+	padding-bottom: 0px;
+	background-color: #e4e4e4;	
+}
+
+
+
+
+
+/*... clases de esme....*/
+/*...clases de julio....*/
+/*... clases de lily....*/
+#BLOG{
+	background:  #e4e4e4
+}
+
+#cuepo{
+	text-align: center;
+
+}
+
+#coment{
+	text-align: center;
+}
+
+/*... etiquetas de esme...*/
+h4{
+color: #3c3c3c;	 font-size: 15px;
+font-family: 'Poppins', sans-serif;
+}
+h5{
+color: #7b7b7b;	 font-size: 13px;
+font-family: 'Poppins', sans-serif;
+  text-align: center;
+}
+p{
+	 color: #686868;
+	 padding-right: 0px;
+	  font-size: 13px;
+	font-family: 'Poppins',
+	 sans-serif;
+}
+h3{
+	padding: 50px 0px 20px 0px;	 text-align: center;
+	color: #282828; font-size: 22px; 
+	font-family: 'Poppins', sans-serif;
+}
+/*... etiquetas de julio...*/
+#texto00{
+	font-family: 'Poppins';
+}
+#julio .row{
+	background-color: #ededed;
+	margin-bottom: 50px;
+	width: 1190px;
+}
+#color{
+	justify-content: center;
+	background-color: #f7f7f7;
+}
+#julio li {
+list-style: none;	
+text-align: right;
+}
+#piedepagina{
+	background-color: #31333e;
+	padding-bottom: 50px;
+}
+#parte1pie{
+	margin-top: 30px;
+}
+#menupie nav ul{
+	margin-bottom: 10px;
+}
+#menupie nav ul li{
+	list-style:none;
+ 	display: inline-block;
+}
+#menupie nav ul li a{
+	text-decoration: none; color: #ffffff; font-size: 15px;  padding: 0px 10px; border-right: 2px solid #ffffff;
+	font-family: 'Poppins', sans-serif;
+}
+#menupie nav ul li a:hover{
+	color:#00aeff;
+}
+#menupie nav ul li:last-child a{
+ border-right: none; border-right: 0px;	
+}
+#textopie{
+	padding-left: 10px;
+}
+#textopie h6{
+	color: #ffffff; font-size: 15px;
+	font-family: 'Poppins', sans-serif;
+}
+#textopie p{
+	color: #ffffff; font-size: 12px;
+	font-family: 'Poppins', sans-serif;
+}
+#parte2pie {
+	
+	padding: 20px 0px 0px 270px;
+	text-decoration: none;
+
+}
+#sociales nav ul li{
+	
+	font-size: 37px;
+	list-style:none;
+ 	display: inline-block;
+ 
+}
+#blog{
+	font-family: 'Poppins'
+}
+/*... etiquetas de lily...*/
