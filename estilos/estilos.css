@@ -193,15 +193,14 @@ padding-left: 15px;
 /*... ID de esme...*/
 /*... ID de esme...*/
 /*... ID de esme...*/
-#contente1{
-	padding-left: 200px;
-	padding-bottom: 0px;
-	background-color: #999999;
-}#content1{
+#content1{
 	background-color: #ebebeb;
 	padding-bottom: 35px;
 	padding-left:  100px;
 	padding-right: 100px;
+}
+#centro{
+	justify-content: center;
 }
 #menu{
 	margin-top: 5px;
@@ -209,27 +208,6 @@ padding-left: 15px;
     padding-left: 0px;
 	padding-bottom: 20px;
 	text-align: center;
-}
-#submenu{
-    margin-top: 30px;
-	padding-right: 0px;
-    padding-left: 240px;
-    text-align: center; 
-}
-#submenu nav ul li{
-	margin-top: 0px;
-	list-style:none; display: inline-block; 
-}
-#submenu nav ul li a{
-	margin-top: 
-	text-decoration; none; color: #5d9dd3; font-size: 15px;  padding: 0px 20px;
-	font-family: 'Poppins', sans-serif;
- }
-#content2{
-	background-color: #f7f7f7;
-	padding-bottom: 35px;
-	padding-left:  280px;
-	padding-right: 280px;
 }
 #menu nav ul li a:hover{
 	color:#00aeff; font-weight: bold;
@@ -243,34 +221,165 @@ padding-left: 15px;
 	text-decoration: none; color: #0067be; font-size: 17px;  padding: 0px 5px;
 	font-family: 'Poppins', sans-serif;
  }
+#submenu{
+    margin-top: 30px;
+	padding-right: 0px;
+    padding-left: 0px;
+    text-align: center; 
+}
+#submenu nav ul li{
+	margin-top: 0px;
+	list-style:none; display: inline-block; 
+}
+#submenu nav ul li a{
+	margin-top: 
+	text-decoration; none; color: #5d9dd3; font-size: 15px;  padding: 0px 20px;
+	font-family: 'Poppins', sans-serif;
+ }
+#content2{
+	background-color: #f7f7f7;
+	padding-bottom: 35px;	
+}
  #parte1{
  	background-color: #ebebeb;
-	padding-bottom:5px;
+	padding-bottom:0px;
 	padding-left:  0px;
 	padding-right: 0px;
-	
+	align-content: right;
+	margin-left: 20px;
  }
  #parte2{
  	background-color: #ebebeb;
-	padding-bottom:5px;
+	padding-bottom:0px;
 	padding-left:  0px;
 	padding-right: 0px;
-	
+	margin-left: 20px;	
  }
  #parte3{
  	background-color: #ebebeb;
-	padding-bottom:5px;
+	padding-bottom:0px;
 	padding-left:  0px;
 	padding-right: 0px;
-	
+	margin-left: 20px;	
  }
  #parte4{
  	background-color: #ebebeb;
-	padding-bottom:5px;
+	padding-bottom:0px;
 	padding-left:  0px;
 	padding-right: 0px;
-	
+	margin-left: 20px;
  }
+ #estrella1 nav ul li{
+ 	list-style: none;
+ 	display: inline-block;
+
+}
+#estrella1 nav ul li a{
+ 	color: #dda100;
+ 	font-size: 20px;
+}
+#estrella1 nav ul{
+ 	padding-left: 0px;
+ 	padding-right: 25px;
+	 padding-left: 25px;
+}
+#estrella1{
+    margin-top: 10px; 
+}
+
+#estrella2 nav ul li{
+ 	list-style: none;
+ 	display: inline-block;
+
+}
+#estrella2 nav ul li a{
+ 	color: #dda100;
+ 	font-size: 22px;
+}
+#estrella2 nav ul{
+ 	padding-left: 0px;
+ 	padding-right: 25px;
+	 padding-left: 25px;
+}
+#estrella2{
+    margin-top: 10px; 
+}
+
+#estrella3 nav ul li{
+ 	list-style: none;
+ 	display: inline-block;
+
+}
+#estrella3 nav ul li a{
+ 	color: #dda100;
+ 	font-size: 22px;
+}
+#estrella3 nav ul{
+ 	padding-left: 0px;
+ 	padding-right: 25px;
+	 padding-left: 25px;
+}
+#estrella3{
+    margin-top: 10px; 
+}
+
+#estrella4 nav ul li{
+ 	list-style: none;
+ 	display: inline-block;
+
+}
+#estrella4 nav ul li a{
+ 	color: #dda100;
+ 	font-size: 22px;
+}
+#estrella4 nav ul{
+ 	padding-left: 0px;
+ 	padding-right: 25px;
+	 padding-left: 25px;
+}
+#estrella4{
+    margin-top: 10px; 
+}
+#cajazul1 button{
+	background-color:#0067be;
+	height: 45px;
+	width: 255px;
+	border: none;
+	border-radius: 5px;
+	color: #bfd9ef;
+	font-size: 15px;
+	font-family: 'Poppins', sans-serif;
+}
+#cajazul2 button{
+	background-color:#0067be;
+	height: 45px;
+	width: 255px;
+	border: none;
+	border-radius: 5px;
+	color: #bfd9ef;
+	font-size: 15px;
+	font-family: 'Poppins', sans-serif;
+}
+#cajazul3 button{
+	background-color:#0067be;
+	height: 45px;
+	width: 255px;
+	border: none;
+	border-radius: 5px;
+	color: #bfd9ef;
+	font-size: 15px;
+	font-family: 'Poppins', sans-serif;
+}
+#cajazul4 button{
+	background-color:#0067be;
+	height: 45px;
+	width: 255px;
+	border: none;
+	border-radius: 5px;
+	color: #bfd9ef;
+	font-size: 15px;
+	font-family: 'Poppins', sans-serif;
+}
 /*... ..ID de julio.....*/
 #blog{
 	padding: 50px 0px 20px 0px;
@@ -437,27 +546,33 @@ text-align: right;
 
 
 /*... etiquetas de esme...*/
-h4{
-color: #3c3c3c;	 font-size: 15px;
-font-family: 'Poppins', sans-serif;
+#centro h4{
+	width: 255px;
+	color: #3c3c3c;	 font-size: 15px;
+	font-family: 'Poppins', sans-serif;
+	padding-right: 26px;
+	 padding-left: 26px;
+	 padding-top: 0x;
 }
 h5{
-color: #7b7b7b;	 font-size: 13px;
-font-family: 'Poppins', sans-serif;
-  text-align: center;
+	color: #7b7b7b;	font-size: 15px;
+	font-family: 'Poppins', sans-serif;
 }
-p{
+ p{
 	 color: #686868;
 	 padding-right: 0px;
+	 padding-left: 10;
 	  font-size: 13px;
 	font-family: 'Poppins',
 	 sans-serif;
+	 text-align: center;
 }
 h3{
 	padding: 50px 0px 20px 0px;	 text-align: center;
 	color: #282828; font-size: 22px; 
 	font-family: 'Poppins', sans-serif;
 }
+
 /*... etiquetas de julio...*/
 
 /*... etiquetas de lily...*/
